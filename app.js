@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 
 var DB_NAME = 'abarman_favorites';
 var DB_USER = 'abarman';
-var DB_PASSWORD = '6163957274';
+var DB_PASSWORD = 'temp4Avni';
 
 var sequelize = new Sequelize(DB_NAME, DB_USER, DB_PASSWORD, {
   dialect: 'mysql',
